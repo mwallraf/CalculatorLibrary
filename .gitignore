@@ -1,3 +1,4 @@
 venv/
 .git/
-
+.coverage
+__pycache__/
